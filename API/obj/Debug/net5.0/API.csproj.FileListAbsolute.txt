@@ -154,3 +154,4 @@ C:\Users\bruger\DatingApp\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
 C:\Users\bruger\DatingApp\API\bin\Debug\net5.0\ref\API.dll
 C:\Users\bruger\DatingApp\API\bin\Debug\net5.0\API.pdb
 C:\Users\bruger\DatingApp\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+C:\Users\bruger\DatingApp\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
